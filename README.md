@@ -67,7 +67,7 @@ The if id_venda in vendas checks if that ID exists.
 If it does, the function returns its details (return vendas[id_venda]).
 If it doesn’t, the else part returns an error message saying the ID doesn’t exist.
 
-For this project, I used FastAPI and Uvicorn (which runs the local server so I can test the API).
+For this project, I used FastAPI, Python 3 and Uvicorn (which runs the local server so I can test the API).
 It was my first time working with FastAPI, and I learned how to create routes, return data, and work with dictionaries inside an API.
 
 
@@ -130,5 +130,5 @@ O if id_venda in vendas verifica se o ID existe.
 Se existir, ele mostra as informações (return vendas[id_venda]).
 Se não existir, o else devolve uma mensagem dizendo que o ID é inexistente.
 
-Nesse projeto eu usei o FastAPI e o Uvicorn (que serve pra rodar o servidor local e testar a API).
+Nesse projeto eu usei o FastAPI, Python 3 e o Uvicorn (que serve pra rodar o servidor local e testar a API).
 Foi meu primeiro contato com FastAPI, e deu pra entender bem como criar rotas, retornar dados e trabalhar com dicionários.
